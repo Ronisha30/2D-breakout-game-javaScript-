@@ -1,0 +1,22 @@
+*{ padding:0; 
+    margin: 0;
+}
+       
+body{
+    background: #787a7a;
+    font-size: Arial;
+    
+} 
+
+canvas{
+    background-color: hsl(221, 79%, 32%);
+    display: block;
+    margin: 0 auto;
+    display:grid;
+    grid-template-columns:100px 100px 100px;
+}
+
+
+.bricks{
+    background-color: rgb(243, 250, 250);
+}
